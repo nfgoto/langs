@@ -1,8 +1,10 @@
 ## Erste Lektion: Viel Glück
 
-第一课：祝你好运                Dì yī kè: Zhù nǐ hǎo yùn  
-Урок первый: удачи              Urok pervyy: udachi  
+第一课：祝你好运 -  Dì yī kè: Zhù nǐ hǎo yùn  
+Урок первый: удачи -  Urok pervyy: udachi  
 Primera lección: buena suerte  
+
+---
 
 Guten Tag.
 
