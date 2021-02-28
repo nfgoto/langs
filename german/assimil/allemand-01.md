@@ -6,7 +6,7 @@ Primera lección: buena suerte
 
 Guten Tag.
 
-Heute is ein grosser Tag.
+Heute is ein großer Tag.
 
 Warum ?
 
@@ -50,7 +50,7 @@ Wir wünschen viel Glück.
 > 我们祝你好运。- Wǒmen zhù nǐ hǎo yùn.  
 > Желаем удачи. - Zhelayem udachi.  
 
-Warum ist heute ein grosser Tag ?  
+Warum ist heute ein großer Tag ?  
 
 > Pourquoi c'est un graand jour aujourd'hui ?  
 > Why is today a grand day ?  
@@ -75,11 +75,24 @@ Amusez-vous bien (nous vous souhaitons beaucoup plaisir)!
 > 你们都玩得开心！ - Nǐmen dōu wán dé kāixīn!  
 
 C'est un grand jour aujourd'hui!  
-> 
-Vous apprenez l'allemand,  
-> 
-Bonjour et bonne chance  
-> 
+> Heute ist ein großer Tag!  
+> Today is a great day!  
+> ¡Hoy es un gran día!  
+> 今天是个好日子! - Jīntiān shìgè hǎo rìzi!  
+> Сегодня отличный день! - Segodnya otlichnyy den!  
+
+Vous apprenez l'allemand.  
+> Sie lernen Deutsch.  
+> Aprendes alemán.
+> 你学德语。- Nǐ xué déyǔ. 
+> ты учишь немецкий. - ty uchish' nemetskiy.  
+
+Bonjour et bonne chance.  
+> Guten Tag und viel Glück.  
+> Buenos días y buena suerte. 
+> 下午好，祝你好运。- Xiàwǔ hǎo, zhù nǐ hǎo yùn.
+> добрый день и удачи. - dobryy den' i udachi.
+
 ---
 
 ### Sag es auf Chinesisch / 用中文说 (Yòng zhōngwén shuō)
