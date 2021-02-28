@@ -1,8 +1,8 @@
 ## Erste Lektion: Viel Glück
 
-第一课：祝你好运                Dì yī kè: Zhù nǐ hǎo yùn
-Урок первый: удачи              Urok pervyy: udachi
-Primera lección: buena suerte
+第一课：祝你好运                Dì yī kè: Zhù nǐ hǎo yùn  
+Урок первый: удачи              Urok pervyy: udachi  
+Primera lección: buena suerte  
 
 Guten Tag.
 
@@ -83,13 +83,13 @@ C'est un grand jour aujourd'hui!
 
 Vous apprenez l'allemand.  
 > Sie lernen Deutsch.  
-> Aprendes alemán.
-> 你学德语。- Nǐ xué déyǔ. 
+> Aprendes alemán.  
+> 你学德语。- Nǐ xué déyǔ.  
 > ты учишь немецкий. - ty uchish' nemetskiy.  
 
 Bonjour et bonne chance.  
 > Guten Tag und viel Glück.  
-> Buenos días y buena suerte. 
+> Buenos días y buena suerte.  
 > 下午好，祝你好运。- Xiàwǔ hǎo, zhù nǐ hǎo yùn.
 > добрый день и удачи. - dobryy den' i udachi.
 
